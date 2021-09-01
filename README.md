@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning VUE
 - 💞️ I’m looking to collaate on 
-- 📫 How to reach me ...
+- 📫 How to reach me 17800812556
 
 <!---
 1llness/1llness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
